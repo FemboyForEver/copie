@@ -64,29 +64,43 @@ shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t e t u p |
-f j k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] [eh] [tj] [ih] p [sh] [gh] h [0j] [Wk] [rl] [uk]
-O [af] [fj] k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] e [tl] i [wk] [rj] y [oh] e [th] [uj] p
-s f j k [ql] e t i p s [fl] - [wk] r-l-y-k-o
-a [fg] [hk] l [0z] w r u o a [fz] [el] t-k-u-j-p
-s [fj] [jl] z [9x] q [ej] [yl] i [pz] d x q e t [ix]
-[pv] s [gc] x [W0ru] | [W0ru] - [W0ru] - [W0ru] [W0ru] |
-[Vxn] f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ef] [tj] [uk] [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] q [ej] [tx] [iz] w [rh] y [oh] - [etupj] [etupj] ]]
+shared.scr = [[ 7 7 7 6 7 9 7 $
+6 7 7 7 6 7 q 0
+9 6 7 7 7 6 7 9
+7 $ 6 7 7 7 6 7
+q 0 9 6 7 7 7 6
+7 9 7 $ 6 7 7 7
+6 7 q 0 9 6 7 7
+7 6 7 9 7 $ 6 7
+7 7 6 7 r r r e
+r y r Q e r r r
+e r i u y e r r
+r e r y r Q e r
+r r e r i u y e
+r r r e r y r Q
+e r r r e r i u
+y e r r r e r y
+r Q e r r r e r
+7 * 9 0 Q 7 9 e
+W Q 0 Q 7 * 9 0
+Q 7 9 e W e r W
+Q 7 * 9 0 Q 7 9
+e W Q 0 Q 7 * 9
+0 Q 7 9 e r e W
+Q 9 * 7 6 7 7 $
+6 7 * 6 7 9 * 7
+6 7 7 $ * 9 * 6
+3 y T r e r r Q
+e r T e r y T r
+6 9 Q 0 ( 7 e W
+Q 9 * 7 6 7 6 7
+6 7 6 7 7 * 9 0
+Q 9 9 0 q 0 9 *
+9 0 Q Q r 7 * 9
+0 9 * e w Q 9 9
+0 q 0 9 * 9 0 Q
+Q r 7 * 9 5 $ 4
+9 ^ 7 ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
