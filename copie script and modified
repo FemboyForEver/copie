@@ -633,7 +633,7 @@ shared.scr = [[ l [pfhz] l k j z [isf] l k j j [odh] g g h f [eua] s p u f [qf] 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("Rickroll Hard", "Auto", function()
+Section:NewButton("bigger then everything", "Auto", function()
     -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 
 shared.stop = true -- stops the player at any time if true
@@ -642,27 +642,46 @@ shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[  [wuto]  [ypeI]    [ye]  [ypeI]  [uroa]    [yd]    [ts]    [ra] 
-      e  [wuto]  [ypeI]    [ye]       e       y       y    [ud] 
-   [so]    [ua]       p  [wuto]  [ypeI]    [ye]  [ypeI]  [uroa] 
-   [yd]    [ts]    [ra]  [wuto]  [ypeI]    [ye]       e       y 
-      y       u       o       u       o  [wuro]       f [wuroG] 
-      h       h       j       G  [yeI0]       f       d   [uro] 
-      f       f       G       h       f       d [zyoda]       z 
-      j   [uro]       f       f       G       h       f       h 
-      j  [yeI0]       G       f       f       D       d   [uro] 
-      f       f       G       h       f       d  [urpj]       j 
-      j  [tkaI]  [urpj]       h  [uroh]       j       k       h 
- [urpj]       j       j       k       j       d  [yoda]       f 
-      G       h       f   [urp]       j       k       j       d 
-      d    [hf]       h    [hd]       h  [rkaI]       k       j 
-      d       d       d       d  [urpj]       j       h       G 
-      f       f       G       h       f [yohe0]       j       G 
-      f       d       d  [urpj]       h       h       h       h 
-      h  [rkaI]       k       j       h       h       h       h 
- [zypd]       G       h       G       f       f       G       h 
-      f  [ywoh]       j       G       f       d       d       j 
-      h  ]]
+shared.scr = [[ [e$QI][pS]GL--6 [ak] jp-
+6 [IG] [uf]-6 [TS] [ra]-
+[579eQT]--[Q79e]--[Q579e]--
+[579eQTS]-[Q579eyd]-[IG]--
+[e$QI][pS]GL--6 [ak] jp-
+6 [IG] [uf]-6 [TS] [ra]-
+[579eQT]--[Q79e]--[Q579e]--
+[579eQTS]-[Q579eyd]-[IG]--
+[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
+[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
+[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
+$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
+[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
+[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
+[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
+$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
+[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
+[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
+[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
+$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
+[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
+[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
+[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
+$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
+[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
+[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
+[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
+$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
+[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
+[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
+[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
+$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
+[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
+[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
+[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
+$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
+[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
+[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
+[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
+$ [3$] [1579e$QTS] $ [$Q3579eyd] $[IG]$ ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
