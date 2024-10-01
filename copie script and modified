@@ -865,7 +865,7 @@ y u y y u r ]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("Lovely Bellie Eilish", "Autoplayf", function()
+Section:NewButton("la campanella", "Autoplayf", function()
    -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 
 shared.stop = true -- stops the player at any time if true
@@ -874,27 +874,7 @@ shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ [8u] I [8o]
-[tp] a [0f] [rd] [7a]
-p a [rp] o
-
-[8u] I [8o] 
-[tp] a [0f] [rd] [7a] 
-p a [rp] o 
-
-[8u] I [8o] 
-[tp] a [0f] [rd] [7a] 
-p a [rp] o 
- 
-[8u] I [8o] 
-[tp] a [0f] [rd] [7a] 
-Q r 
-
-[8k] j h G f j h G 
-[0k] j h G f G f h 
-
-[8k] j h G f j h G
-o h G G f h [0u] ]]
+shared.scr = [[ [u0] [u0] [u0] [xf] [xf] [xf] [u0] [u0] [u0] [xf] [xf] [xf] [u0] [xf] [xf] [u0] [xf] [xf]|f x x z [ul] l k [uj] H j [ukO] f f [gO] f d [sp] s a [pYI] O p [uaO]|f x x z [ul] l k [uj] H j [ukO] f f [gO] f d [se] s a [pe] O p [aW0] u u [iW] u y p jlx [uO] Hkx e u f x x z [pl] [pl] k j H j [ukO] [ufO] f g f d [sp] [sp] a p O p [uaO]|f x x z [pl] [pl] k [pj] [pH] j [ukO] [ufO] f [ugO] [ufO] d [se] s a [pe] O p [aW0] u u [iW] u y p jlx [uO] Hkx [xspljf]|||f x x z [ul] l k [uj] H j [ukO] f f [gO] f d [sp] s a [pYI] O p [uaO]|f x x z [ul] l k [uj] H j [ukO] f f [gO] f d [se] s a [pe] O p [aW0] u u [iW] u y p jlx [uO] Hkx e u f x x z [pl] [pl] k j H j [ukO] [ufO] f g f d [sp] [sp] a p O p [uaO]|f x x z [pl] [pl] k [pj] [pH] j [ukO] [ufO] f [ugO] [ufO] d [se] s a [pe] O p [aW0] u u [iW] u y p jlx [uO] Hkx [xspljf] ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
