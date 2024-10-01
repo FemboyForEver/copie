@@ -86,29 +86,53 @@ shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t e t u p |
-f j k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] [eh] [tj] [ih] p [sh] [gh] h [0j] [Wk] [rl] [uk]
-O [af] [fj] k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] e [tl] i [wk] [rj] y [oh] e [th] [uj] p
-s f j k [ql] e t i p s [fl] - [wk] r-l-y-k-o
-a [fg] [hk] l [0z] w r u o a [fz] [el] t-k-u-j-p
-s [fj] [jl] z [9x] q [ej] [yl] i [pz] d x q e t [ix]
-[pv] s [gc] x [W0ru] | [W0ru] - [W0ru] - [W0ru] [W0ru] |
-[Vxn] f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ef] [tj] [uk] [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] q [ej] [tx] [iz] w [rh] y [oh] - [etupj] [etupj] ]]
+shared.scr = [[ [epfj] u| e u|
+[eph] i| e i|
+[epg] o| e o|
+[epf] i| e i|
+[epfj] u| e [us]|
+[eph] i| [ea] i|
+[epg] o| [ed] o|
+[epf] i| e i|
+6 e| 6 e|
+[6eo] e| 6 e|
+[6ua] e| 6 e|
+[6us] e| 6 [eud]|
+[6us] e| 6 e|
+[6ua] e| 6 e i
+[6u] e| [6t] e 9
+6 e| 6 e|
+6||[eo] t| |
+y| |
+i| |
+u| |
+[6t] e| 6 e|
+[6ey] e| 6 e|
+[6tu] e| 6 e|
+[6eti] e| 6 w 0
+[6eto] 6| 6 6|
+[6typ] 6| 6 6|
+[6roa] 6| 6 6|
+[6tos]| |
+[6shl] 3 [6e] 0 e|
+[4qdhjz] 8 q w e|
+[5wa]dhk9 [wpdj] 9 [rafk]|
+[30shl] 7 0 w [epfj]|
+[6sfhl] 0| 6 e|
+[7rdhjz] w| 7 [rfjx]|
+[4qfjlx] 8 q t y q
+[4qyod] 8 q 8 [4qdhz]|
+[3shl] 8 0 8 [0o]|
+3 8 [0afk]| |
+[6pfj] 6| 6 6|
+[6wo] 6| 6 6|
+[6qi] 6| 6 6|
+[6ep] 6| 6 6[ra][ts]
+[6ra] 6| 6 6 [ep]
+[6wo] 6| 6 [6qi]|
+[60u] 6| 6 6 8
+[69] 6| 6 6|
+[6p] ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
