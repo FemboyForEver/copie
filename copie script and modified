@@ -77,29 +77,149 @@ shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t e t u p |
-f j k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] [eh] [tj] [ih] p [sh] [gh] h [0j] [Wk] [rl] [uk]
-O [af] [fj] k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] e [tl] i [wk] [rj] y [oh] e [th] [uj] p
-s f j k [ql] e t i p s [fl] - [wk] r-l-y-k-o
-a [fg] [hk] l [0z] w r u o a [fz] [el] t-k-u-j-p
-s [fj] [jl] z [9x] q [ej] [yl] i [pz] d x q e t [ix]
-[pv] s [gc] x [W0ru] | [W0ru] - [W0ru] - [W0ru] [W0ru] |
-[Vxn] f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ef] [tj] [uk] [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] q [ej] [tx] [iz] w [rh] y [oh] - [etupj] [etupj] ]]
+shared.scr = [[ [pj]-[oh][ig][uf][yd][TS][yd]-[ep]-[0u][qi][*T][9y]-
+[6e]-[5w][4q][30][29][!*][29]-2-[*ET0wu]--
+[9ey]0Q----[*T]
+[9y][0u][*T][9y][0u][*T][9y][0u][*T][9y][0u][qi][wo][0u][qi][wo][0u][qi][wo][0u][qi][wo]
+[ep][EP][wo][ep][EP][wo][ep][EP][wo][ep]----[TS]
+[yd][uf][TS][yd][uf][TS][yd][uf][TS][yd][uf][ig][oh][uf][ig][oh][uf][ig][oh][uf][ig][oh]
+[pj][PJ][oh][pj][PJ][oh][pj][PJ][oh][pj]----[pj]
+[oh][PJ][uf][oh][PJ][uf][ig][pj][yd][ig][pj][yd][uf][oh][ts][uf][oh][ts][yd][ig][EP][yd][ig][EP]
+[ts][uf][ep][ts][uf][ep][EP][yd][wo][EP][yd][wo][ep][ts][qi][ep][ts][qi][wo][EP][0u][wo][EP][0u]
+[qi][ep][9y][qi][ep][9y][0u][wo][*T][0u][wo][*T]2-[0wuo*ETP]----
+poiuyTrTeTuoi-u
+[29yi]--pdpfpgpdpfpgphpfp
+gphpjpgphpjpJphpjpgphpfpgpdpfpSp
+dpppPpopppipopupipypopupipypupTp
+ypepEpwpepqpwp0pqp9pwp0pqp9p0p*p
+9 yiPitupuEyoyeTup[9y][iP][8e][up][^E][yo]
+[T60up] yiPitupuEyoyeTup[9y][iP][8e][up][^E][yo]
+[T60up]--oiuyTrTerTyuiopoiuiyipS
+dpaSdfghjJ [9d][gJ][8p][fj][^P][dh][S6ufj] dgJg
+sfjfPdhdpSfj[9d][gJ][8p][fj][^P][dh][S6ufj] [%ryia] 
+[5eupS]-apSfhJjhgfgfdSdsPpoiuy
+[TPSwuof]----[of][uS][TP][uS][TP][uS][of][uS][TP][uS][TP]
+[uS][of][uS][TP][uS][TP][uS][of][uS][TP][uS][TP][Eo][TP][Eo][wu][Eo][wu][Eo][TP][Eo][wu][Eo][wP]
+[Eo][TP][Eo][wu][Eo][wu][Eo][TP][Eo][wu][Eo][wu][0T][wu][0T][*E][0T][*E][0T][wu][0T][*E][0T][*E]
+[0T][wu][0T][*E][0T][*E][0T][wu][0T][*E][0T][*E][0T][wu][0T][wu][Eo][wu][0T][wu][0T][wu][Eo][wu]
+[0T][wu][0T][wu][Eo][wu][0T][wu][0T][wu][Eo][wu][0o][wP][0o][wP][0o][wP][Eo][TP][Eo][TP][Eo][TP]
+[uS][TP][uS][Tf][uS][Tf][uS][Tf][uS][Tf][uS][Tf][TSweupfj]-[qeyipdgj]-
+[EPyodh]--ew[TSeupfh]-0q90*
+97*6^%6[weupS][qeyipd] [9eyi] [6u] Tw
+[29ey] q0q--popipup
+ypTpypupipeprpTp
+ypTpypupid[Is]d[oP]d[tp]d
+[Eo]d[eI]d[Eo]d[tp]d[yP]d[Qy]d[wu]d[eI]d
+[Eo]d[eI]d[Eo]d[Qp]d[wP]o[wd]o[yP]o[yd]o
+[tD]Y[to]Y[tD]Y[to]Y[ts]i[tp]i[ts]i[tp]i
+[Ed]y[Ei]y[Ed]y[Ei]y[EP]u[Eo]u[EP]u[Eo]u
+[eS]T[eu]T[eS]T[eu]T[qp]y[qi]y[qp]y[qi]y
+[0o]E[0T]E[0o]E[0T]E[9i]e[9y]e[9i]e[9y]e
+[0u]w[0E]w[0u]w[0E]w[qe]j[0eh]j[9eg]j[wef]j
+[qed]j[0eS]j[qed]j[*ef]j[9eg]j[*ep]j[9ea]j[0eS]j
+[qed]j[0eS]j[qed]j[*ef]j[9eg]jfj[qyd]jsj
+[wyP]jsjdhPh[8tf]hdh[0ts]hPh
+[qtp]hPhsgpg[^Ed]gsg[9EP]gpg
+[E0o]gpgPfof[6eS]fPf[*ep]fof
+[9ei]fofpd[qyi]d[ETu]f[ETu]f[eyi]d[eyi]d
+[wuP]SPSpd[eyi]d[ETu]f[ETu]f[eyi]d[eyi]d
+[Wu]dSdadSaSpopuoiu
+idSd[yg]dSa[eS]pop[Tf]oiu
+iy[Td]y[eu]e[wS]e[Qys]y[Tp]y[wP]i[Yo]y
+[Tp]ueT[I9p]Yyt[rio]ywr[Y8o]ytE
+[eI]t[Qyp]e[9I]t[sED]e[Ed]p[oP][Ip][oP]E[Peh]w
+[yp]9[8G]9[^dh]9[6ys]9[5yP]9[$ypd]9[P5yd]9[I6td]9
+[^Eod]9[I2yd]9[3yod]9[$tpd]9[EP5d]9[$ypd]9[P5yd]9[I6td]9
+[^Eod][Ph][pg][Ph][of][pg][7id][of][8us][sj][Ph][sj][pg][Ph][*of][pg]
+[9id][dJ][sj][dJ][Ph][sj][9pg][Ph][0of][fl][dJ][fl][sj][dJ][P0h][sj]
+[qpg]D[6id]s[^Pd][ps][9oP][ip][5oP][Pd][oP][ip][uo][oP][^uo][yi]
+[tu][yi][6uo][ip][5oP]d[8us]P[4ip]tEt[es]t[wP]t
+[qp]t[0o]t[qp]t[wP]t[es]t[8u]t[9i]t[0o]t
+[qp]t[0o]t[qp]t[wP]t[es]PpoiYyt
+[Ed]sPpoiuy[tf]dsPpoiu
+[yg]fdsPpoi[uh]gfdsPpo
+[ij]gfgsgfg[ij]gfgsgfg
+[uh]fdfsfdf[uh]fdfsfdf
+[ij]gfgsgfg[ij]gfgsgfg
+[uh]fdfsfdf[uh]fdfsfdf
+[yg]hgfdsapaoadgjgd
+aoadgjgdPoPsfhfs
+PoPsfhfspipsdgdP
+pipsdgdPouoPSfSP
+ouoPSfSPpj[Sh]j[dg]j[of]j
+[id]j[pS]j[ad]j[Sf]j[dg]j[pS]j[ad]j[Sf]j
+[dg]j[Sf]j[dg]p[Sof]pdI[ups]I[oP]y[Itp]y
+[oEP][tp][Eo][ei][wu][qy][0T][9r]*6*0wEw0
+*6*0wEw0969qeyeq
+969qeyeq*6*0wEw0
+*6*0wEw0969qeyeq
+969qeyeq0*0wETEw
+0*0wETEwq9qeyiye
+q9qeyiye0*0wETEw
+0*0wETEwq9qeyiye
+q9qeyiyew0wETuTE
+w0wETuTEeqeTyiye
+EyEwqeq9696429*7
+*Eewqwq09Eewqwq0
+90qwerTyiuy[ep]rTyuiop[of][id][uS]
+[id]DdsPpoIY[yp]tEw[qro]w[(ts]w[9oa]w
+[8oD]w[7d]w[8D]w[9a]w[(s]w[5a]w[6s]w[7d]w
+[8D]w[7d]w[8D]w[9g]w[(h]o[9i]o[8Y]o[7y]o
+[8t]o[9r]o[(t]o[qy]o[wY]o[7w]o[8e]o[9r]o
+[(t]o[9r]o[(t]o[qy]y[wY]h[7yg]h[8oD][Og][9id][oD]
+[(Ys]g[6tD]g[^id][oD][Y8s][id][9yP]D[E5d]D[Y6s][id][y^P][Ys]
+[8tp]d[I9s]d[woP][ps][9ip][oP][(Yo][oP][^Ip][oP][6ps][oP][I8p][uo]
+[9I]y[tp]y[Ed][yo][es][yI][wP][yo][Qd][yp][wP][yo][ep][yI]
+[Eo][yd][9I][yd][0o][yd][Qp][yd][wP][yo][Qd][yp][wP][yo][es][yp]
+[Ed]s[eP]p[wP]p[5P]o[8p]P[6s]d[9QD]d[2s]d
+[5wP]s[ep]P[Eo]e[5wa]q[(8s]D[Yg]h[yH]h[7g]h
+[8tD]g[yd]D[Ys]i[yP]Y[tp]Y[yP]ioi[Yp]i
+yE[Yo]yTe[yI]t[ri]w[tY]Eeq[Ey][yP]
+[tp][yP][tp][Eo][eI][tD][Ed][es][wP][tj][Eh][eG][Eh]tE[eg]
+[wD][eg][qd][wD][0S]Ppo[Qpd]Yyt[I9ys]tEe
+[woP]iYy[Tep]E[euS]w[qid]w[0of]e[9pg]o[pd]i
+[of]pop[PS]pop[ipd][oP][uo][ip][yi]t[Epg]e
+[Eoh]e[wpd]q[0oS]q[0id]9[*of]6[9id]6[0uS]6[qpd]6
+[Pwf]6[qpd]6[0oS]6[9id]6[*pf]e[6fh]e[9dg]e[qpd]y
+[qoP]y[0of]T[qpd]y[9id]y[euS]pop[id]p[uf]p
+[yg]p[Tf]p[yg]p[uS]p[id]p[eS]p[rd]p[Tf]p
+[yg]p[Tf]p[yg]p[uh]p[ij]J[uh]j[yg]h[of]g
+[id]p[uS]p[id]p[Tf]p[yg]p[Tf]p[yg]p[rh]p
+[Tj]p[of]p[ig]p[yh]p[Tj]eweqe0e
+9e*e9e0eqe6e7e*e
+9e*e9e0eq[of][id][uS][id]T[qy]g
+[wf]g[0h]j[eTJ]j[6h]j[9yg]p[af]Sdf[6sg]D
+[^id]s[5P]p[8o]p[1YP]s[4p]teqet[Y6s]t
+[^y]E[wP]9wE[^yh]o[8tD][yg][Ed][tD][es][wP][Q6p][0o]
+[Q9p]9Qweyew[9Q]9QweyeQ
+[9w]9weEyEe[9w]9weEytE
+[9e]QeEtYtE[9e]QeEtYtE
+[9e]EyIoPoy[9E]wEyoPoy
+[9t]etYIpIY[9t]etYIpIY
+[Qy]989[^wod]9[I6es]9[5oEP]wqw[(Yos]w[9rad]w
+[8wsD]8^8[6tsg]8[E5fh]8[4egj]q(q[EP9g]q[8tpD]q
+[^Pyd][oD][(id][Ys][qyP][Ys][4yP][tp][E5o][Ys][8yP][tp][E9o][tp][E2o][eI]
+[E5o][ei][wu][qy][0T]6[5wu]6[4ei][ro][T2p][ya][6uS][id][of][pg]
+[P2h] [pg][of][id]p[uS]p[yd]p[Tf]p[yg]p[uh]p
+[ij]p[eS]p[rd]p[Tf]p[yg]p[Tf]p[yg]p[9rd]p
+[T6f] [4ypd] [P5od] [6upS] [4ipd] [2pdg] [P5df] [6ps] 
+[^EPqyid]----ghjJpPsdsdDgiop
+PpPsdpoiYopPsoiYyiopPeEtytyYiqwe
+EeEtytEewEtyYytEetyuIYytEIopPsdo
+[*TPuof]--q-[yipd] 9 
+[%ryia]----WrqW9q7
+9%6 3 [WO0ruad] [0etups]--oi
+[ws]----oiouuyutpopiiui
+yapaooiousaspdsdafdfsgfgdhghfsas
+pdsdaOIOusaspiuiyapatpoprOIOutre
+Wytreuytriuytoiuypoiuopas [0wtuo] 
+[weupS] eTupS [weupS] [qeipd] eyipd [qeipd] 
+[qryoa] wryoa [qwyoa] [0wuos] wtuos [0wuos] 
+[0etip] qetip [0qtip] [9qyiP] qEyiP [9qyiP] 
+[0uo*P] 0wETP [0uo*TP] [QI8yp] 9eyIp [QI8yp] 
+[E5wy]-[^o]-[ET3u]-[4eyi]-
+[6eu]-t-[^qy]-[5wE]-
+[29qe] ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
