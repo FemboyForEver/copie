@@ -85,7 +85,7 @@ shared.scr = [[ ( [%t] Y O s O Y t Y O s O Y [5t] u P s P u u P s [tP] u [4t] Y 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("Fur Elise", "Auto", function()
+Section:NewButton("wild side", "Auto", function()
     -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 
 shared.stop = true -- stops the player at any time if true
@@ -94,13 +94,20 @@ shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ fDfDfads [p6] 0e tup [a3] 0W uOa [s6] 0e u fDfDfads [p6] 0e tup [a3] 0W usa [p6] 0e
-fDfDfads [p6] 0e tup [a3] 0W uOa [s6] 0e u fDfDfads [p6] 0e tup [a3] 0W usa [p6] 0e
-asd [f8] wt ogf [d5] wr ifd [s6] 0e uds [a3] 0 uufuff x DfDfDfDfDfads [p6] 0e tup [a3] 0W uOa [s6] 0e u fDfDfads
-[p6] 0e tup [a3] 0W usa [p6] 0e fDfDfads [p6] 0e tup [a3] 0W uOa [s6] 0e u fDfDfads [p6] 0e tup [a3] 0W usa [p6] 0e
-fDfDfads [p6] 0e tup [a3] 0W usa [p6] 0e asd [f8] wt ogf [d5] wr ifd [s6] 0e uds [a3] 0 uufuffx DfDfDfDfads [p6] 0e tup
-[a3] 0W uOa [s6] 0e u fDfDfads [p6] 0e tup [a3] 0W usa [6t0p]
- ]]
+shared.scr = [[ [IG][oh] [sl] [ak] [PJ] [ts][YD][oh][IG][ig][YD][ig]--
+[Hwiodhk]----
+[Yos]-[Yoa]-[oYP]-[Yoa] [Yos]-
+[Yos]-[Yoa]-[oYP]-[Yoa] [Yos]-
+[Yos]-[Yoa]-[oYP]-[Yoa] [Yos]-
+[Yos]-[Yoa]-[oYP]-[Yoa] [Yos]
+1 [Yos] @ [Yoa] 4 [oYP] 5[Yoa]@[Yos]
+1 [Y1os] @ [@Yoa] 4 [oYP] 5[Yoa]@[Yos]
+1 [Yos] @ [Yoa] 4 [oYP] 5[Yoa]@[Yos]
+11[Y1os] @ [@Yoa] 4 [oYP] 5[Yoa]@[Yos]
+[1oh] 8[ts]@ [oh]^ [oh][IG]-[ig]-[YD] 
+[ts] [EP][ts]----
+[oh]-[ts]-[oh] [oh][IG]-[ig]-[YD] 
+[ts] [EP][ts] ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
