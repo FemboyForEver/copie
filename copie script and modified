@@ -984,46 +984,54 @@ shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ [eI][pS]GL----[ak] jp--
+shared.scr = [[ I[pS][9G]L----[ak] jp--
+[IG] [uf]--[TS] [ra]-9
+T--9--9--
+9[TS]-9[yd]-[IG]--I
+[pS][9G]L----ak jp--
+[IG] [uf]--[TS] [ra]-9T--
+9--9--
+9[TS]-9[yd]-[IG]--
+I[pS][9G]L----[ak] jp--
+[IG] [uf]--[TS] [ra]-9
+T--9--9--
+9[TS]-9[yd]-[IG]--
+I[pS][9G]LL----k[ak] jp--
 [IG] [uf]--[TS] [ra]-
-[eT]--e--e--
-[eTS]-[eyd]-[IG]--
-[eI][pS]GL----[ak] jp--
+9T--9--9--
+9[TS]-9[yd]-[IG]--I
+[pS][9G]LL----akk jp--
+[IG] [uf]--[TS] [ra]-9T--
+9--9--
+9[TS]-9[yd]-[IG]--
+I[pS][9G]LL----k[ak] jp--
 [IG] [uf]--[TS] [ra]-
-[eT]--e--e--
-[eTS]-[eyd]-[IG]--
-[eTI][pS]GL----[ak] jp--
-[IG] [uf]--[TS] [era]-
-[erT]--e--e--
-[eTS]-[eyd]-[IG]--
-[eTI][pS]GL----[ak] jp--
-[IG] [uf]--[TS] [era]-
-[erT]--e--e--
-[eTS]-[eyd]-[IG]--
-[eTI][pS]GL----[ak] jp--
-[IG] [uf]--[TS] [era]-
-[erT]--e--e--
-[eTS]-[eyd]-[IG]--
-[eTI][pS]GL----[ak] jp--
-[IG] [uf]--[TS] [era]-
-[erT]--e--e--
-[eTS]-[eyd]-[IG]--
-[eTI][pS]GL----[ak] jp--
-[IG] [uf]--[TS] [era]-
-[erT]--e--e--
-[eTS]-[eyd]-[IG]--
-[eTI][pS]GL----[ak] jp--
-[IG] [uf]--[TS] [era]-
-[erT]--e--e--
-[eTS]-[eyd]-[IG]--
-[eTI][pS]GL----[ak] jp--
-[IG] [uf]--[TS] [era]-
-[erT]--e--e--
-[eTS]-[eyd]-[IG]--
-[eTI][pS]GL----[ak] jp--
-[IG] [uf]--[TS] [era]-
-[erT]--e--e--
-[eTS]-[eyd]-[IG] ]]
+9T--9--9--
+9[TS]-9[yd]-[IG]--I[pS]
+[9G]L----[ak] jp--
+[IG] [uf]--[TS] [ra]-9T--
+9--9--
+9[TS]-9[yd]-[IG]--I[pS][9G]
+L----ak jp--
+[IG] [uf]--[TS] [ra]-9T--
+9--9--
+9[TS]-9[yd]-[IG]--I[pS]
+[9G]L----[ak] jp--
+[IG] [uf]--[TS] [ra]-9T--
+9--9--
+9[TS]-9[yd]-[IG]--I
+[pS][9G]LL----k[ak] jp--
+[IG] [uf]--[TS] [ra]-9T--
+9--9--
+9[TS]-9[yd]-[IG]--I[pS]
+[9G]LL----akk jp--
+[IG] [uf]--[TS] [ra]-9T--
+9--9--
+9[TS]-9[yd]-[IG]--I
+[pS][9G]LL----k[ak] jp--
+[IG] [uf]--[TS] [ra]-9T--
+9--9--
+9[TS]-9[yd]-[IG] ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
