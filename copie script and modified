@@ -2127,7 +2127,7 @@ b j n j x j b [Gdn]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("The World - Death Note", "Autoplayf", function()
+Section:NewButton("Misa", "Autoplayf", function()
 -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 
 shared.stop = true -- stops the player at any time if true
@@ -2136,8 +2136,32 @@ shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ 7 7 7 [7u] o p [0a] a a d s [9a] a a p a [8o] o o p a [7Ya] p u o p [0a] a a d s [9a] p o I [8uo] a s [7s] a a s [0oa] 0 0 0 0 0 Q w [8ua] 8 8 8 8 8 [ua] [5ad] [5f] [5G] [5d] [7fh] [7j] [7DG] ( 0 Q [0f] [0f] [9dG] [8afh] 0 a p o [0I] u I o [up] 8 o I 8 p [oa] 5 5 [oa] [oa] s [Ip] [7uo] [Yp] [8oa] p [8o] p [9o] p [9I] y [8u] [oa] [8p] a [oad] 5 5 p o p [7YI] 7 I o p [7fa] [7Da] 7 7 7 7 7 7 7 u o p [0oa] a a d s [9oa] a a p a [8uo] o o p a [7Ya] p u o p [0oa] a a d s [9oa] [Ip] o I [8uo] o s [7Ys] a o [8u] u a [9Ip] p o I [0u] o o [9Ip] [8u] u o a [7Ya] p 7 [pd] [ps] [0ps] a [9Ia] [8ua] [7Ya] [0f] [0f] [9dG] [8afh] ]]
-
+shared.scr = [[0| u [t6] [u80] y
+[r5] [w7] [r6] [r6] [80] [80]e[e860]| |
+e| u u| u t| |0 e r t y r i i u y u||
+u o i y i u t| |u y| w u y r w r ee||
+[u6] [o80] [i80] [y%] [i70] [u70]
+[u6] [u80] [Y80]Y[u6] [80] [80]
+[t6] [u80] [y80] [t%] [W70] [r70]
+[r6] [80] [80]e[e6] [80] [80]
+[r6] [80] [80]e[e860]||
+[w5] [e97] [r97] [t4] [q7] [qi7]
+[u3] [76] [Y76] [u3] [7%]Y[u2]
+[u1] [o83] [i83] [y2] [i94] [u94]
+[t3] [85] [85] 4 [86] [86]
+[yqe9] r [tq96] [yq95] u [qi95]
+[o3] [75] [o75] [P6] [wp*]o[wp*]
+[q96] u [qo96] [qi96]| [yq96]
+[wur9] 5 7 8 0 w
+[qe9] u [qoe9] [qie6]| [yqe6]
+[t5] [w0] [w0] [r5] [q7] [q7]
+[t1] [80] [80] 5 [80] [80]
+1 [80] [80] 5 [80] [80]
+[4%!] T t T| E
+[tY764]| |T Y
+[u^3%] u TO o i
+[u753]| yu[te653]|
+y [y7] [^$] [^$] 7 [^$] [^$] ]]
 loadstring(game:HttpGet(""))()
 
 end)
