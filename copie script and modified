@@ -838,46 +838,46 @@ shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ [30wu][oa]fk--5 [pj] ho-
-5 [uf] [yd]-5 [ra] [ep]-
-[4680wr]--[680w]--[4680w]--
-[4680wra]-[4680wts]-[uf]--
-[30wu][oa]fk--5 [pj] ho-
-5 [uf] [yd]-5 [ra] [ep]-
-[4680wr]--[680w]--[4680w]--
-[4680wra]-[4680wts]-[uf]--
-[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
-[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
-[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
-3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
-[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
-[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
-[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
-3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
-[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
-[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
-[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
-3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
-[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
-[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
-[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
-3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
-[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
-[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
-[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
-3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
-[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
-[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
-[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
-3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
-[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
-[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
-[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
-3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
-[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
-[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
-[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
-3 [23] [34680wra?] 3 [234680wts] 3[uf]3 ]]
+shared.scr = [[ [eI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [ra]-
+[eT]--e--e--
+[eTS]-[eyd]-[IG]--
+[eI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [ra]-
+[eT]--e--e--
+[eTS]-[eyd]-[IG]--
+[eTI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [era]-
+[erT]--e--e--
+[eTS]-[eyd]-[IG]--
+[eTI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [era]-
+[erT]--e--e--
+[eTS]-[eyd]-[IG]--
+[eTI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [era]-
+[erT]--e--e--
+[eTS]-[eyd]-[IG]--
+[eTI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [era]-
+[erT]--e--e--
+[eTS]-[eyd]-[IG]--
+[eTI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [era]-
+[erT]--e--e--
+[eTS]-[eyd]-[IG]--
+[eTI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [era]-
+[erT]--e--e--
+[eTS]-[eyd]-[IG]--
+[eTI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [era]-
+[erT]--e--e--
+[eTS]-[eyd]-[IG]--
+[eTI][pS]GL----[ak] jp--
+[IG] [uf]--[TS] [era]-
+[erT]--e--e--
+[eTS]-[eyd]-[IG] ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
