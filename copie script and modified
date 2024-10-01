@@ -151,36 +151,157 @@ shared.scr = [[ 1[50]5[50]8[50]([50]w[50]t[750]Y[750][4Wi][5625]Y[5625]i[375][^y
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("Blue bird", "Auto", function()
+Section:NewButton("erika", "Auto", function()
     shared.stop = true -- stops the player at any time if true
 -- CONFIG:
 shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by |)
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t e t u p |
-f j k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] [eh] [tj] [ih] p [sh] [gh] h [0j] [Wk] [rl] [uk]
-O [af] [fj] k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] e [tl] i [wk] [rj] y [oh] e [th] [uj] p
-s f j k [ql] e t i p s [fl] - [wk] r-l-y-k-o
-a [fg] [hk] l [0z] w r u o a [fz] [el] t-k-u-j-p
-s [fj] [jl] z [9x] q [ej] [yl] i [pz] d x q e t [ix]
-[pv] s [gc] x [W0ru] | [W0ru] - [W0ru] - [W0ru] [W0ru] |
-[Vxn] f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ef] [tj] [uk] [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] q [ej] [tx] [iz] w [rh] y [oh] - [etupj] [etupj] ]]
+shared.scr = [[ [$ETI]-[ET] [ET] [ETI] T E T 
+[7rQWI]-[QW] [QW] [QWI] r W Y 
+[*QET]-T T [w*ET]-T T 
+[q*ET]--[*T] [7ry] [^EY] [%Wi] 
+[$QEI]--[q*Q]--
+[*(Q]--[*Q]--
+[^*Q]--[^*q]--
+[$^*QE]--[$^*]-[Wqr]-
+[$^*QET]--[$^*QET]--
+[$^*QET]--[$^*ETI]--
+[$^*ETI]--[$*QTIP]--
+[7qi*TP]--[*7q]-[riO]-
+[7qQETI]--*--D
+^--*--
+[%*WETqi]--[$*QETI]--
+[4ri*WO]--[4q]--
+*--*--
+[7qi*TP]--[*7q]-[riO]-
+[$*QETI]--[4q]--
+[@(]--[!*]--
+[$^*QE]--[$^*]-[Wqr]-
+[$^*QET]--[$^*QET]--
+[$^*QET]--[$^*ETI]--
+[$^*ETI]--[$*QTIP]--
+[7qi*TP]--[*7q]-[riO]-
+[7qQETI]--*--
+^--*--
+[qi%*WETI]--[$*QETIO]--
+[4ri*WOP]--[4q]--
+*--*--
+[7qi*TP]--[*7q]-[riO]-
+[*QETI]--q--
+(--*--
+[^*QT]--[^*]-[QEI]-
+[qiWTS]-[*T] [*T] [*WTqi]-[*TS] [*TS] 
+[qi*WTS]-[*T] [*T] [*WTqi]-[*TS] [*TS] 
+[*(WTYS]-[*TS] [*T] [qi*TS]-[*TS] [*T] 
+[*QETIS]-[^*T] [^*T] [^*T]-[*QTI] [*QTI] 
+[*QTI]-[QEIP] [QEIP] [QEIP]-[ETPS] [ETPS] 
+[qi*ETS]-[*T] [*T] [*T]-[*QTI] [*T] 
+[r*WTO]-[*T] [*T] [r*WTO]-[*T] [*T] 
+[r*WTO]-[*T] [*T] [r*WTO]-[*T] [*T] 
+[i*TS]-[*T] [*T] [*Tra]-[*T] [*T] 
+[*ETP]-[QETI] [QETI] [QEIP]-[*QPS] [*QPS] 
+[*QPS]-[ETPS] [ETPS] [ETPS]-[QEIP] [QEIP] 
+[$*QEIP]-[*E] [*E] [$*E]-[Wqr]-
+[$^*QET]--[$^*QET]--
+[$^*QET]--[$^*ETI]--
+[$^*ETI]--[$*QTIP]--
+[7qi*TP]--[*7q]-[riO]-
+[7QETI]--q--
+(--*--
+[%*WETqi]--[$*QETI]--
+[ri*WO]--q--
+(--*--
+[7qi*TP]--[*7q]-[riO]-
+[*QETI]-[qETI] [(ETI] [*ETI]-[^ETI]-
+[$ETI]--[$ET] [ET] [ET] [ET] 
+[^*ET]--[^*EY] [EY] [QEY] [EY] 
+[ETY]-[QE]-[*QET] [ET] [QET] [ET] 
+[qrT]--[rT] [rY] [QET] [Wr] 
+[qWT]--[Wr] [qW]-[(Q] Q 
+[q*W]-[(Q]-[qW]-[QE]-
+[Wr]-[QET]-[WTqi]--[(QY] 
+[rQTY]--[ET] [rY] [QWET] [Wr] 
+[QET]--[ET] [ET] [ET] [ET] 
+[QET]--[EY] [EY] [EY] [EY] 
+[ETY]-[QE]-[*QET] [ET] [QET] [ET] 
+[qrT]--[rT] [rY] [QET] [Wr] 
+[qWT]--[Qr] [qW]-[(Q] Q 
+[q*W]-[(Q]-[qW]-[QE]-
+[Wqr]-[QET]-[qr(WTY]-[ri] [7q] 
+[QETI]-[QEI] [QEI] [QETI]-[QETI]-
+[QETI]--[ET] [ET] [ET] [ET] 
+[^*ET]--[^*EY] [EY] [QEY] [EY] 
+[ETY]-[QE]-[*QET] [ET] [QET] [ET] 
+[qrT]--[rT] [rY] [QET] [Wr] 
+[qWT]--[Wr] [qW]-[(Q] Q 
+[q*W]-[(Q]-[qW]-[QE]-
+[Wr]-[QET]-[WTqi]--[(QY] 
+[rQTY]--[ET] [rY] [QWET] [Wr] 
+[QET]--[ET] [ET] [ET] [ET] 
+[QET]--[EY] [EY] [EY] [EY] 
+[ETY]-[QE]-[*QET] [ET] [QET] [ET] 
+[qrT]--[rT] [rY] [QET] [Wr] 
+[qWT]--[Qr] [qW]-[(Q] Q 
+[q*W]-[(Q]-[qW]-[QE]-
+[Wqr]-[QET]-[qr(WTY]-[ri] [7q] 
+[QEI]-[QEI] [QEI] [QETI]-[QETI]-
+[QETI]--[*T] [7ry] [^EY] [%Wi] 
+[$QEI]--[q*Q]--
+[*(Q]--[*Q]--
+[^*Q]--[^*q]--
+[$^*QE]--[$^*]-[Wqr]-
+[$^*QET]--[$^*QET]--
+[$^*QET]--[$^*ETI]--
+[$^*ETI]--[$*QTIP]--
+[7qi*TP]--[*7q]-[riO]-
+[7qQETI]--*--
+^--*--
+[%*WETqi]--[$*QETI]--
+[4ri*WO]--[4q]--
+*--*--
+[7qi*TP]--[*7q]-[riO]-
+[$*QETI]--[4q]--
+[@(]--[!*]--
+[$^*QE]--[$^*]-[Wqr]-
+[$^*QET]--[$^*QET]--
+[$^*QET]--[$^*ETI]--
+[$^*ETI]--[$*QTIP]--
+[7qi*TP]--[*7q]-[riO]-
+[7qQETI]--*--
+^--*--
+[qi%*WETI]--[$*QETIO]--
+[4ri*WOP]--[4q]--
+*--*--
+[7qi*TP]--[*7q]-[riO]-
+[*QETI]--q--
+(--*--
+[^*QT]--[^*]-[QEI]-
+[qiWTS]-[*T] [*T] [*WTqi]-[*TS] [*TS] 
+[qi*WTS]-[*T] [*T] [*WTqi]-[*TS] [*TS] 
+[*(WTYS]-[*TS] [*T] [qi*TS]-[*TS] [*T] 
+[*QETIS]-[^*T] [^*T] [^*T]-[*QTI] [*QTI] 
+[*QTI]-[QEIP] [QEIP] [QEIP]-[ETPS] [ETPS] 
+[qi*ETS]-[*T] [*T] [*T]-[*QTI] [*T] 
+[r*WTO]-[*T] [*T] [r*WTO]-[*T] [*T] 
+[r*WTO]-[*T] [*T] [r*WTO]-[*T] [*T] 
+[i*TS]-[*T] [*T] [*Tra]-[*T] [*T] 
+[*ETP]-[QETI] [QETI] [QEIP]-[*QPS] [*QPS] 
+[*QPS]-[ETPS] [ETPS] [ETPS]-[QEIP] [QEIP] 
+[$*QEIP]-[*E] [*E] [$*E]-[Wqr]-
+[$^*QET]--[$^*QET]--
+[$^*QET]--[$^*ETI]--
+[$^*ETI]--[$*QTIP]--
+[7qi*TP]--[*7q]-[riO]-
+[7QETI]--q--
+(--*--
+[%*WETqi]--[$*QETI]--
+[ri*WO]--q--
+(--*--
+[7qi*TP]--[*7q]-[riO]-
+[*QETI]-[qETI] [(ETI] [*ETI]-[^ETI]-
+[$^ETI] ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
