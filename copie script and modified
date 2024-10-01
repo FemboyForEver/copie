@@ -44,29 +44,37 @@ shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t e t u p |
-f j k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] [eh] [tj] [ih] p [sh] [gh] h [0j] [Wk] [rl] [uk]
-O [af] [fj] k [el] [tf] [ul] [pk] w [rj] [yh] [oj] 8 [0s] [wd] [tf]
-u [of] [sf] f [qg] e [tl] i [wk] [rj] y [oh] e [th] [uj] p
-s f j k [ql] e t i p s [fl] - [wk] r-l-y-k-o
-a [fg] [hk] l [0z] w r u o a [fz] [el] t-k-u-j-p
-s [fj] [jl] z [9x] q [ej] [yl] i [pz] d x q e t [ix]
-[pv] s [gc] x [W0ru] | [W0ru] - [W0ru] - [W0ru] [W0ru] |
-[Vxn] f j k [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ef] [tj] [uk] [el] t u p [wk] r y [oj] e t u p
-s f j k [el] t u p [wz] r [yl] [oz] 0 [Wx] r u
-O f j k [el] t u p [wk] r y [oj] e y I p
-d j x z 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] 9 [qj] [ex] [yz] 0 [wh] r [uh] 6 [8j] [0j] e
-t [ej] [tx] [uz] q [ej] [tx] [iz] w [rh] y [oh] - [etupj] [etupj] ]]
+shared.scr = [[ [$Q] [$Q][$Q][$Q][ra][yad][Supf]
+[7adIG] [9dIG][radQIG][9dIG][Grypdj][S9oafh][Qr][6dIG] [6dIG][0eadIG][6dIG][QSrupf][7dIG][0e]
+[5yoad] [5yad][9yoad][wyad][Sruof][wadIG]9[pad$IG] [$*Supaf] ^[ra][^*Qyad][Supf]
+[7adIG] [9dIG][radQIG][9dIG][ryoadh]9[Qr][6adIG] 6[S0eupf][S6uf][QIryad][7uTS][0e]
+[5yoad] 9wQw[9yad][S6uof][$Soafh] [79adQIG]-[!*oafh]-
+[7adIG]Q[rdG]Q[yaf]Q[7dG]7[S7upf]*[0dG]9[Qdh]0[rdG]0
+[5ryoa]9[Iea]w[ruo]w[I5a]5[5yoad]9w9e0[ra][0TS]
+[I29yad]Q9[dQG]y[Qpf]0[29] [29][!*ra] [29IG] [30uf][$Q]
+[$Ira]--[$QEI] [^E] [7r] [*T] 
+[I7ya][I7ya] [!*I6yp][*I6yp] [259wryo]----
+7 [adQG]y[af]rd [7pS] [roa] [QIS] [9ud]f
+[5u] 9 w [rad][pS][5oa] r w [9uTS][Iyd]
+[I29yd] Q y Q [Iyad] [QIad] [I9yd] [*uf] 
+[$QTIS] [$Q] [$Q][$Q][$Q] [$Qyoad][$Q][$Q] [$QSupf][30][!*]7
+[5dIG]-5[wry]-5 5 5[wry]-Q
+[6dIG]-6[0eT]-6 6 6[0eT]-e
+5 [9wr] [5dIG] [9wr] [S5uf] [9wr] [5dIG] [9wr][Gpdj]
+[G2pdj] [Q9e] 22[9eQIG] [G2pdj]2[QS9eupf] [I2yad]2[Q9euf][TIPS] 
+[$Q][$Q][$Q][4q][$Q][$Q][4q][$Q][$Q][$QTS][$Q][$Qyd][$Q][$Quf][$QIG] 
+[$E][$T][ru][EI][wo][0u]*I$[$y] [$T] E$
+[$Q]$[$0]$*[ra][yd][uf][7adIG] [7dIG][9radQIG][7dIG][Gpdj][S7oafh][Q9r]
+[6dIG] [6dIG][9eadQIG][6dIG][*QS0upf][6dIG] [5yoad] [5yad][9wyoad][5yad][S0wruof][wadIG]9
+[pad$IG] [$^*Supaf] ^[ra][^*Qyad][Supf][7adIG] [7dIG][9radQIG][7dIG][oadh]7[Q9r]
+[6adIG] 6[QS9eupf][S6uf][*QI0yad][6uTS] [5yoad] 9wQw[9yad][S6uof]
+[$Soafh] [79adQIG]-[29yd] [!*TS][I5rya] 2[57]2[57ra]2[57IG]
+[$Supf] $[*Quf]$[*Qyd][$TS][*Q][I7rya] $[79]$[I79yad]$[79]
+[S6upf] 3[*60]3[*60][7ra][6ep][I5rya] 2[57ra]2[57yd]2[57IG]
+[$Supf]----[pj] [oh][oh]
+[7ofh] [radQIG]7[Qr]7[Qr]7[6adIG] 6[*0]6[*0]6[*0]
+[I5ypd] 6[9Q]6[9Q][6yd][Q9uf][ad$IG] [^Supf] 7[yd] [TS]
+[7ra][7ra] [6ep][6ep] [5yd] ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
