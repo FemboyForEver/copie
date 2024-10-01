@@ -109,7 +109,7 @@ Section:NewButton("bella ciao", "Autoplayf", function()
 
 shared.stop = true -- stops the player at any time if true
 -- CONFIG:
-shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by |)
+shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by |)
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
@@ -237,7 +237,7 @@ Section:NewButton("pirate", "Auto", function()
 
 shared.stop = true -- stops the player at any time if true
 -- CONFIG:
-shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by |)
+shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by |)
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
@@ -276,7 +276,7 @@ Section:NewButton("solas", "Auto", function()
 
 shared.stop = true -- stops the player at any time if true
 -- CONFIG:
-shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by |)
+shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by |)
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
@@ -319,99 +319,28 @@ x V b m x V b||
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("oN MY WAY", "Auto", function()
+Section:NewButton("lilium", "Auto", function()
  -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 shared.stop = true -- stops the player at any time if true
 -- CONFIG:
-shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by |)
+shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by |)
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ s h g f 8 w u w 5 9 d [rg] [9f] s
-6 0 s [tg] [0f] d 4 [8s] s e [8d] f
-8 w u w 5 [9d] d r [9f] s
-6 0 t [0a] p 4 8 s [eh] [8g] f
-
-8 w u w [5h] h [9h] h [rj] k 9 l
-6 0 t 0 h [4g] g [8g] g [eh] [8g] f
-8 w u w 5 d [9d] [rd] [9f] s
-6 0 t 0 4 8 e
-
-o [8qep] p p [8qed] f f
-[8qep] p p [8qed] f f [9wrd] d s [9wrd] s [70wo] [70w]
-o [8qep] p p [8qed] f f
-[8qep] p p [8qed] f f [9wrd] d s [9wrd] f [9wrg]
-
-[pj] [6esl] [6epj] [6esl] [30ak] [pj] [30oh] [30]
-[oh] [4qpj] [oh] [4qig] [4qpj] [18oh] [ig] [18uf] [18]
-[29ig] [29yd] [yd] [uf] [29ig] [6euf] [pj] [6e] [uf] [6ets] [30ra]
-[30] p [30d] [6es] a [6e] p
-
-[6epj] [6esl] [6epj] [6esl] [30ak] [pj] [30oh] [30]
-[oh] [4qpj] [oh] [4qig] [4qpj] [18oh] [ig] [18uf] [18]
-[29ig] [29yd] [yd] [uf] [29ig] [6euf] [pj] [6e] [uf] [6ets] [30ra]
-[30] p [30d] s a p
-
-[6s] e [6s] a [ep] s [3a] [0a] p [3o] [0o] 
-[4p] q [4p] o [qi] [1o] [8o] i [1u] 8
-[2i] [9i] [2i] u [9y] i [6u] [ep] [6p] [et] [3y]
-0 [3y] t [0r] [6t] e [6e]
-
-[6s] e [6s] a [ep] s [3a] [0a] p [3o] [0o] 
-[4p] q [4p] o [qi] [1o] [8o] i [1u] 8
-[2i] [9i] [2i] u [9y] i [6u] [ep] [6p] [et] [3y]
-0 [3y] t [0r] t e
--
-t i i i 8 u w u w
-5 9 y [ri] [9u] t
-6 0 [tus] [0id]
-
-4 8 t [et] y 8 u 8 u w u u w
-y 5 y [9y] [ri] [9u] t 6 [0us] t [0to]
-
-4 o [8o] o [eo] o [8s] s 8 o [wo] o u i [wu] i
-5 o [9o] o [ro] o [9s] s 6 o [0o] o t i [0u] i
-4 o [8o] o [eo] o [8s] s 8 o [wo] o u i [wu] i
-5 u 9 t [rt] y 9 u 6 y [0y] y [ty] y [0t] u 4 y 8
-
-[eo] o o [8qe] p o [8qe] s [8qes] a a a [8qea] o o o
-[9wr] [9wr] s [70ws] a a a [70wa] o o o
-[8qe] [8qe] s [8qes] a a a [8qea] p o o [9wro] o o [9wr] p o [9wr] p a
-
-[pj] [6esl] [6epj] [6esl] [30ak] [pj] [30oh] [30]
-[oh] [4qpj] [oh] [4qig] [4qpj] [18oh] [ig] [18uf] [18]
-[29ig] [29yd] [yd] [uf] [29ig] [6euf] [pj] [6e] [uf] [6ets] [30ra]
-[30] p [30d] [6es] a [6e] p
-
-[6epj] [6esl] [6epj] [6esl] [30ak] [pj] [30oh] [30]
-[oh] [4qpj] [oh] [4qig] [4qpj] [18oh] [ig] [18uf] [18]
-[29ig] [29yd] [yd] [uf] [29ig] [6euf] [pj] [6e] [uf] [6ets] [30ra]
-[30] p [30d] s a p
-
-[6s] e [6s] a [ep] s [3a] [0a] p [3o] [0o] 
-[4p] q [4p] o [qi] [1o] [8o] i [1u] 8
-[2i] [9i] [2i] u [9y] i [6u] [ep] [6p] [et] [3y]
-0 [3y] t [0r] [6t] e [6e]
--
-[0etp] p s s [0wrp] s p u
-o [8qep] o y u t e [80wf] s p d s
-[69qp] p s s [680p] s p u
-o [70Wp] o y u t e [680f] s p d s
-
-[0etp] p s s [0wrp] s p u
-o [8qep] o y u t e [80wf] s p d s
-[69qp] p s s [680p] s p u
-o p o y u j h d f t r e
-
-[pj] [6esl] [6epj] [6esl] [30ak] [pj] [30oh] [30]
-[oh] [4qpj] [oh] [4qig] [4qpj] [18oh] [ig] [18uf] [18]
-[29ig] [29yd] [yd] [uf] [29ig] [6euf] [pj] [6e] [uf] [6ets] [30ra]
-[30] p [30d] [6es] a [6e] p
-
-[6epj] [6esl] [6epj] [6esl] [30ak] [pj] [30oh] [30uf]
-[oh] [4qpj] [oh] [4qig] [4qpj] [18oh] [ig] [18uf] [18]
-[29ig] [29yd] [yd] [uf] [29ig] [6euf] [pj] [6e] [uf] [6ets] [30ra]
-[30] p [30d] s a p ]]
+shared.scr = [[ I S O p p I S O p a p I O u y u I y T y u I O p a p O
+I S O p p I S O p a p I O u y u I y T y a p O I i Y i I
+P a S d p O d S f p S a p O i y T
+P a S d p O d S f p S s p O I p a O
+I S O p p I S O p a p I O u y u I y T y u I O p a p O
+I S O p p I S O p a p I O u y u I y T y a p O I Y i I
+p a S a d S a p O
+p a S D a S
+p a S p a d S a S p O u I O p S f D a S
+G f d S D a S p O u I O p S f D a S
+P a S d p O d S f p S a p O i y T
+P a S d p O d S f p S s p O I p a O
+I S O p p I S O p a p I O u y u I y T y u I O p a p O
+I S O p p I S O p a p I O u y u I y T y a p O I Y i I ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
