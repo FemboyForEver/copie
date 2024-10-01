@@ -421,7 +421,7 @@ shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ [6u] [80u]u[3u] [80u]u[6u] [80u]u[3u] [80u]u[6u]i[80u]Y[3u] [80p] [6s] [80] 3 [80s]
+shared.scr = [[ u   u    u u u u u uuuuuuuuuu[6u] [80u]u[3u] [80u]u[6u] [80u]u[3u] [80u]u[6u]i[80u]Y[3u] [80p] [6s] [80] 3 [80s]
 [%d] [90d]d[%d]s[90a]d[6s] [80] 6 [80p]s[7a] [(ea]a[7I] [(ea] [0rWO]| [30u]|
 [6u] [80u]u[3u] [80u]u[6u] [80u]u[3u]i[80u]Y[6u] [80p]s[3f] [80j] [6l] [80] 3 [80l]
 [%z]l[90k]z[6l] [80] [7k]j[e(H]k[8j] [0e] [9g]f[qed]s[0a] [Wr]O[etup]| [6e]|
