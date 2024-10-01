@@ -130,7 +130,7 @@ e [5t] 9 r [8t] 0 w t 8 0 w t u
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("Enemy Imagine dragons transition 2", "Auto", function()
+Section:NewButton("moonlight sonata 3rd mouvement", "Auto", function()
  -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 
 shared.stop = true -- stops the player at any time if true
