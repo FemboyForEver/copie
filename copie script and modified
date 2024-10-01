@@ -104,7 +104,7 @@ fDfDfads [p6] 0e tup [a3] 0W usa [p6] 0e asd [f8] wt ogf [d5] wr ifd [s6] 0e uds
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("kiss the rain", "Autoplayf", function()
+Section:NewButton("bella ciao", "Autoplayf", function()
    -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 
 shared.stop = true -- stops the player at any time if true
@@ -113,18 +113,26 @@ shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ w t y [8y] u u | w t w t y u [5y] o o | w r w o p a [6a] s [tus] t u d d f d s [3a] w r w 3
-s a o [qo] p p | t i t o i [3i] o o
-w r w t y [9u] i [eyi] e y e o i [5u] w r i u [5y] w t y [8y] u u | w t w t y u [5y] o o | w r w o p a [6a] s [tus] t u d d f d s [3a] w r w 3
-s a o [qo] p p | t i t o i [3i] o o
-w r w t y [9u] i [eyi] e [5t] 9 r
-[8t] 0 w t u t u o [qp] t i t q r t p [3o] w r w 6 r t o [9o] i [wyi] u [5u] y
-w t y [8y] u u | w 8 t u o [qp] t u t 7 a a p [3o] w r u i [6o] i u
-[9i] w o w [9p] t a s [wf] y o y [wd] w t y [8y] u u | w t w t y u [5y] o o | w r w o p a [6a] s [tus] t u d d f d s [3a] w r w 3
-s a o [qo] p p | t i t o i [3i] o o
-w r w t y [9u] i [eyi] e [5t] 9 r [8t] 0 w t u
-s a o [qo] p p | t i t o i [3i] o o | w r w t y [9u] i i
-e [5t] 9 r [8t] 0 w t 8 0 w t u
+shared.scr = [[ u p a [6s] p|
+u p a [6s] p|
+u p a [6s] a p s a p [6f] f f f d f [9g] g|
+g f d [8f] s|
+d s [7a] f s a [6p] 6 6|
+6 0 e r [6t] e 666
+0 [6e] r [6t] e 666
+0 [6e] r [6t] r [6e] t [6r] e [6u] u 6 u|
+[6y] u [9i] i 999
+i [9u] y [8u] t 888|
+[8y] t [7r] u 7 [7t] [7r] [6e] 6 666
+y [6y] u [9i] i 999
+p [9o] i [8o] u 888|
+[8y] t [7r] u 7 [7t] [7r] [6e] 6 666 6|
+f j k [el] j|
+f j k [el] j|
+f j k [el] k [ej] l [ek] j
+[ex] x e x x [ez] x [yc] c|y|
+c [yx] z [tx] l t|
+[tz] l [rk] x r l [rk] [ej]
  ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
