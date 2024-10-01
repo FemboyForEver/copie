@@ -271,7 +271,7 @@ i2uy[6u]e 6er[4t] t4y [6u]e 6et[3r] r3te[3r]|
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("Making my way downtown", "Auto", function()
+Section:NewButton("solas", "Auto", function()
  -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 
 shared.stop = true -- stops the player at any time if true
@@ -280,8 +280,42 @@ shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ aukakJIaJYGuDSaukakJIaJYGaGaGauDfDSukakJIaJYGuDSauDSaIDSaYGuaSraG0aGaGraQGSSr(SraD0SSr0SraQDSSr(SraD0aa30raQP$rPI@(rIrI(rY30Tra30raQP$rPI@(rIrI(rY30TaG30aGaGaQG$SS@(SaD30SS30SaQD$SS@(SD30aa30raQP$rPI@(rIrI(rY30Tra30raQP$rPI@(rIrI(rY30uYTr30rrrYQ$rYrYrT@(aDSr30rrrYQ$rYrYrT@(aGSr30rrrYQ$rYrYrT@(aDSaI30TQPI$PIPI30aI30QPIG$TIE$QYPYP@(ua@(rO30urW30PIPI30aI30QPIG$TIE$QYPYP@(ua@(ura30urW30PIPI30aI3PIG$PID$QPIDPID@(PIG@(SPI30aI30PIaYO%^YODTSI$Q$TIEQ$TIE$aaQ$k30akQJ$aJG@(aGaG(aD30Sak30akQJ$aJG@(aGaG(aD30fDSaG30aGaGaQG$SS@(SaD30SS30SaQD$SS@(SaD30ra30raQP$rPI@(rIrI(rY30Tra30raQP$rPI@(rIrI(rY30uYTaG30aGaGaQG$SS@(SaD30SS30SaQD$SS@(SaD30ra30raQP$rPI@(rIrI(rY30Tra30raQP$rPI@(rIrI(rY30uYTr30rrrYQ$rYrYrT@(aDSr30rrrYQ$rYrYrT@(aGSr30rrrYQ$rYrYrT@(aDSaI30TQPI$PIPI30aI30QPIG$TIE$QYPYP@(ua@(rO30urW30PIPI30aI30QPIG$TIE$QYPYP@(ua@(ura30urW30PIPI30aI30QPIG$PID$Q$PIDPID@(PIG@SPI3aI30PIaYO%^YODTSI$Q$TIEQ$TIE$aaQ$k30akQJ$aJG@(aGaG(aD30Sak30akQJ$aJG@(aGaG(aD30fDSk30akQJ$aJG@((D30SaD30SaQD$SaG@(aS3030PI ]]
-
+shared.scr = [[ j| x| k| H|
+[4p] a s f s a p a s f s a
+[6p] a s f s a p a s f s a
+[0p] a s f s a p a s f s a
+[qp] a s f s a p a s f s a
+[qp] a s f s a p a s f s a
+[ep] a s f s a p a s f s a
+[0p] a s f s a p a s f s a
+[qp] a s f s a p a s f s a
+[qetp] a s f s a p a s f s a
+[0etp] a s f s a p a s f s a
+[0wrp] a s f s a p a s f s a
+[qetp] a s f s a p a s f s a
+[qetp] a s f s a p a s f s a
+[0etp] a s f s a p a s f s a
+[0wrp] a s f s a p a s f s a
+[qetp] a s f s a p a s f|
+[qetf] h j k|l k j h f d s
+[etud] f h dsd s d f h dsd s
+[wryd] f h dsd s a s f apa p
+[Q9ep] a s f s a p a s f|
+[qetf] h j l|l z x v zlz l
+[etuz] x v zlz l z x v zlz l
+[wryz] x v zlz l k l x kjk j
+[Iypk] l x kjk j k l x kjk j
+[ipsj] k l x l k j k l x l k
+[upsj] k l x l k j k l x l k
+[uoaj] k l x l k j k l x l k
+[ipsj] k l x l k j k l x l k
+[qetj] k l x l k j k l x l k
+[0etj] k l x l k j k l x l k
+[0wrj] k l x l k j k l x l k
+[qetj] k l x l k j k l x|
+6 0 e t u p p s f j H l
+x V b m x V b||
+6 ]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
