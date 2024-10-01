@@ -224,7 +224,7 @@ t [%(] ( [QO] ( % ( [QO] ( % ( [QO] ( % 0 [TO] * % * ! [%*] * ! * % * f * % [*S]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("We The Kings", "Auto", function()
+Section:NewButton("pirate", "Auto", function()
  -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 
 shared.stop = true -- stops the player at any time if true
@@ -233,28 +233,32 @@ shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ s h f (i)  s h f (t) s h d (o) (o)
-s a s (i) s h f (t) s h d (o)...
-
-
-                                                            (e)         (e)     (q)            
-s f (t u o s o u) s d (r  y o d o y) s d f  d d s f d d s f d d s p (I)
-
-
-                                                            (e)         (e)     (q)            
-s f (t u o s o u) s d (r  y o d o y) s d f  d d s f d d s f d d s p (I)
-
-
-  (t)
-  (u)                                                                              (q)
-s s o s o s d f a (y o) a (o) s s d e (e) d d s d f d s d (e t i)...
-s h f (i) s h f (t) s h d (o) d s f (o)
-s h f (i) s h f (t) g f d (o) (o)
-s h f (i) s h f (t) s h d (o) d s f (o) d s
-
-
-    (t)                            (e)
-(i) s f d (o)...dddds...(t) ]]
+shared.scr = [[ e ee ee eeee
+e ee ee eeee[6e] ee e[6e] e[6e]0w[6e]
+e6er[4t] t4ty[3r] r3ew[6w]e
+60w[4e] e4er[1t] t1ty[5r] r3ew[6e]|
+60w[6e] e6et[4y] y4yu[2i]
+i2uy[6u]e 6er[4t] t4y [6u]e 6et[3r] r3te[3r]|
+3uo[6p] p6pa[4s] s4sd[3a] a3po[6o]p
+6uo[4p] p4pa[1s] s1sd[5a] a3po[6p]|
+6uo[6p] p6ps[4d] d4df[2g] g2fd[6f]p
+6pa[4s] s4d [6f]p 6ps[3a] a3po[6p]
+[6p] [5a] [5s] [5s] [4d] [3f]|
+3sp[3u]|3|
+[2g]|2dp[2i]|2|
+[3e]|[3e]|[3W]|
+3ty[6u] u6u [6i]u 6|
+[5y] y5y [8y]u 8|
+[6u] u6u [6i]u 6|[3y] t3r [6e]|
+6er[6t]|6yu[5y] t5r [8t] y8u [5y]|
+5ty[8u]|8yt[3r] t3r [6e]|6rw[6e]|
+6pa[6s]|6as[5d] s5d [8f] d8s [4p]|
+4pa[6s] d6f [2g] p2d [3s]|3da[3p]|3aO[6f]|6|
+[2g]|2|[8f] f8f [5f]d 5|
+[2d]|2|[3s]|3|[3a] s3a [6p]|
+[6p]as[6f]|[6p]as[4g]|
+[4p]as[1f] f1h [5f]d 5|
+[2d]|2|[3s]|3|[3a] s3a [6p]|666[6e] ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
