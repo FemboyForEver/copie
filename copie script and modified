@@ -642,46 +642,46 @@ shared.ftime = 2*60 + 20 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
 
-shared.scr = [[ [e$QI][pS]GL--6 [ak] jp-
-6 [IG] [uf]-6 [TS] [ra]-
-[579eQT]--[Q79e]--[Q579e]--
-[579eQTS]-[Q579eyd]-[IG]--
-[e$QI][pS]GL--6 [ak] jp-
-6 [IG] [uf]-6 [TS] [ra]-
-[579eQT]--[Q79e]--[Q579e]--
-[579eQTS]-[Q579eyd]-[IG]--
-[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
-[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
-[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
-$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
-[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
-[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
-[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
-$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
-[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
-[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
-[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
-$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
-[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
-[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
-[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
-$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
-[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
-[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
-[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
-$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
-[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
-[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
-[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
-$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
-[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
-[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
-[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
-$ [3$] [1579e$QTS] $ [$Q13579eyd] $[IG]$ $ 
-[1e$QTI][pS]GL $ $ $ [$36] [$ak] [$13j]p $ 
-[$6] [3$IG] [$1uf] $ [$136] [1$TS] [$1era] [1$] 
-[1579er$QT] $ $ $ [$Q1379e] $ [$135] [$Q579e] 
-$ [3$] [1579e$QTS] $ [$Q3579eyd] $[IG]$ ]]
+shared.scr = [[ [30wu][oa]fk--5 [pj] ho-
+5 [uf] [yd]-5 [ra] [ep]-
+[4680wr]--[680w]--[4680w]--
+[4680wra]-[4680wts]-[uf]--
+[30wu][oa]fk--5 [pj] ho-
+5 [uf] [yd]-5 [ra] [ep]-
+[4680wr]--[680w]--[4680w]--
+[4680wra]-[4680wts]-[uf]--
+[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
+[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
+[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
+3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
+[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
+[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
+[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
+3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
+[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
+[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
+[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
+3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
+[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
+[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
+[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
+3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
+[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
+[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
+[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
+3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
+[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
+[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
+[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
+3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
+[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
+[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
+[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
+3 [23] [34680wra?] 3 [234680wts?] 3[uf]3 3 
+[30wru?][oa]fk 3 3 3 [235] [3pj] [23h?]o 3 
+[35] [23uf] [3yd?] 3 [235?] [3ra?] [3wep?] [3?] 
+[34680wer?] 3 3 3 [23680w?] 3 [234?] [34680w] 
+3 [23] [34680wra?] 3 [234680wts] 3[uf]3 ]]
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
