@@ -57,22 +57,183 @@ y p y a y s y u e u i p y e ]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("doors elevatort", "Auto", function()
+Section:NewButton("nocturne op. 9 no, 2", "Auto", function()
     shared.stop = true -- stops the player at any time if true
 -- CONFIG:
 shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by |)
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ y p y p y p y y p
-t o t o t o t t o
-E i E i E i E E i
-e o e o e u e e y i o
-y p y p y p y y p
-u y u o t o t o t t o
-y t E i E i E i E E E t i
-u o o o e i e T u
-y p y a y s y u e u i p y e ]]
+shared.scr = [[ j k l H j g
+[6f] 0 [tf] e [uf] 0
+[6f] 0 [yg] [wf] [ud] [0a]
+[6s] 0 t e [up] 0
+[6j] k 0 l H t j H e h H u k j 0 g
+[6f] g 0 D f t j H e h G u g f 0 D
+6 d S 0 s a y s a W P a u f D 0 d
+[6s] 0 t e [up] 0
+[6j] 0 [tj] e [uj] 0
+[1h] 0 t w u 0
+[4s] 8 [ep] [qa] [ts] [8g]
+[1f] 8 w 0 t 8
+[4d] 8 [wf] [qd] [ts] [O8]
+[1o] 8 w 0 [ts] 8
+[4d] 8 [wf] [qd] [ys] [7d]
+[3f] 7 W 0 y W
+[6j] [0k] [tl] [he] [uk] j [0g]
+[6f] 0 [tf] e [uf] 0
+[6f] 0 [yg] [wf] [ud] [0a]
+[6s] 0 t e [up] 0
+[6j] k 0 l H t j H e h H u k j 0 g
+[6f] 0 t e n [ub] c 0 x
+[z6] z 0 l [yk] j W H [ug] f 0 a
+[6s] 0 t e [up] 0
+[6j] 0 [tj] e [uj] 0
+[6j] 0 T e [so] e
+[9d] f d f [qd] f d f [sy] [ed] [ig] y f
+[7f] Q Y r [dp] r
+[0f] g f D r f O G y H a j u k
+[6l] 0 t e [9j] g i p
+[3s] 0 e u [ya] W
+[6p] 0 [tx] [el] [9j] g i p
+[3s] 0 e u [ya] W
+[4j] 8 q b e c [yl] j q p
+[p9] q E y [o0] y
+[6p] 0 t e u t
+e 0 8 6 3 2
+[1uf] 5 8 w 8 5
+[YD!] 5 8 Q 8 5
+[1yd] [5uf] [7yd] q [7ra] 5
+[1ep] 5 [7wo] q 7 5
+[1ep] 5 [7ra] q 7 5
+[1ts] 5 [7yd] q 7 5
+[1uf] [5ig] [9pj] w [7oh] 5
+[1uf] 5 8 w 8 5
+[1uf] 5 8 w 8 5
+[YD!] % 8 Q 8 %
+[!TS] [%YD] [TS] q [WO] %
+[!EP] $ * Q * $
+[!TS] [%YD] [TS] q [WO] %
+[4ep] 8 ( e ( 8
+[5ra] 9 q W w 5
+[1ts] 5 8 w 8 5
+[1uf] 5 8 w 8 5
+[YD!] 5 8 Q 8 5
+[1yd] [5uf] [7yd] q [7ra] 5
+[1ep] 5 [7wo] q 7 5
+[1ep] 5 [7ra] q 7 5
+[1ts] 5 [7yd] q 7 5
+[1uf] [5ig] [9pj] w [7oh] 5
+[1h] 5 o 8 w [8uf] 5
+[1uf] 5 8 w 8 5
+[YD!] % 8 Q 8 %
+[!TS] [%YD] [TS] q [WO] %
+[!EP] $ * Q * $
+[!TS] [%YD] [TS] q [WO] %
+[4ep] 8 ( e ( 8
+[5ra] 9 q W w 5
+[1ts] 5 8 w 8 6
+[5yd] 9 w r w 9
+[5uf] * 0 e 0 *
+[4ig] 6 [9uf] [eig] [9oh] [6pj]
+[4pj] 7 [9yd] w [9oh] 7
+3 5 [8pj] [woh] [8ig] [5uf]
+[1uf] 5 [8ig] [wuf] [8yd] [5ts]
+[1yd] 6 9 Q 9 6
+1 % 7 q [yd7] 5
+[1uf] 5 8 w 8 5
+[YD!] % 8 Q 8 %
+[!TS] [%YD] [TS] q [WO] %
+[!EP] $ * Q * $
+[!TS] [%YD] [TS] q [WO] %
+[4ep] 8 ( e ( 8
+[5ra] 9 q W w 5
+[1ts] 5 8 w 8 6
+[5yd] 9 w r w 9
+[5uf] * 0 e 0 *
+[4ig] 6 [9uf] [eig] [9oh] [6pj]
+[4pj] 7 [9yd] w [9oh] 7
+3 5 [8pj] [woh] [8ig] [5uf]
+[1uf] 5 [8ig] [wuf] [8yd] [5ts]
+[1yd] 6 9 Q 9 6
+1 % 7 q [YD] 5
+[1uf] 5 8 w 8 5
+[YD!] % 8 Q 8 %
+[!TS] [%YD] [TS] q [WO] %
+[!EP] $ * Q * $
+[!TS] [%YD] [TS] q [WO] %
+[5ep] 8 ( e ( 8
+[5ra] 9 q W w 5
+[1ts] 5 8 w 8 5
+[p1uf] 5 8 w [8d] [5f]
+[p1ud] 5 8 w [8s] 5
+[p1h] 5 8 [wsj] [p8h] [5sj]
+[p1h] 5 8 w 8 5
+[p1uf] 5 8 w [8d] [5f]
+[1d] 5 [p8y] w [8s] 5
+[p1h] [5sj] [p8h] [wsj] [p8h] [5sj]
+[p1h] 5 8 w 8 5
+[1lx] 5 8 [jwz] [j8h] [5fh]
+[p1f] 5 8 w [p8dg] 5
+[p1gj] 5 8 w 8 5
+[1fh] 5 8 w 8 5
+[1sf] 5 8 [pwd] [p8o] [5uo]
+[e1u] 5 8 w [e8yi] 5
+[1ip] 5 8 w 8 5
+[8uo] w t w 8 5
+8 w t w 8 5
+8 w t w 8 5
+8 w t w 8 5
+8 w t w 8 5
+[8sf] w t w [8od] [5sf]
+[8od] w t w [8us] 5
+[8fh] w t [wgj] [8fh] [5gj]
+[8fh] w t w 8 5
+[8sf] w t w [8od] [5sf]
+[8od] w t w [8us] 5
+[8fh] [wgj] [tfh] [wgj] [8fh] [5gj]
+[8fh] w t w 8 5
+[8lx] w t [whz] [8fl] [5fh]
+[8sf] w t w [8dg] 5
+[8gj] w t w 8 5
+[8fh] w t w 8 5
+[8sf] w t w 8 %
+8 W t W 8 5
+8 w t w 8 4
+8 q t q 8 5
+8 w t w 8 %
+8 W t W 8 %
+8 W t W 8 6
+[8j] [0k] [tl] [he] [uj] [0g]
+[6f] 0 [tf] e [uf] 0
+[6f] 0 [yg] [wf] [ud] [0a]
+[6s] 0 t e [up] 0
+[6j] [0k] [tl] [he] [uk] j 0 g
+[6f] g 0 D [tf] e u 0 n
+[6b] V c x 0 Z z l y k j H [wg] f g D u f P a 0 f d s
+[6s] 0 t e [up] 0
+[6j] 0 [tj] e [uj] 0
+[6j] 0 T e [so] e
+[9d] f q d y S e d i g y f
+[7f] Q Y r [dp] r
+[0f] g f g [rf] g f g [OD] f G [Hy] [aj] [uk]
+[6l] 0 t e [9j] g i p
+[3s] 0 e u [ya] W
+[6x] 0 t [el] [9j] g i p
+[3s] 0 e u [ya] W
+4 8 q b e c [yl] j q p
+[p9] q E y [o0] y
+[6p] 0 t e u 0
+[p6] q y W [oi] q
+[6p] 0 t e u 0
+[p6] d [qg] J [yz] W i [oq]
+[6p] 0 t e u 0
+[6zc] q W E y i
+O [jz] [HJ] [hg] [dg] [pd]
+[OP] [oi] [yi] [ey] [WE] [wqy]
+[t60e]
+[t60e] [t60e] [t6qe] 0
+[8t0e] ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
