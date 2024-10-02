@@ -57,22 +57,61 @@ y p y a y s y u e u i p y e ]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("doors elevatort", "Auto", function()
+Section:NewButton("lavender town", "Auto", function()
     shared.stop = true -- stops the player at any time if true
 -- CONFIG:
 shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by |)
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ y p y p y p y y p
-t o t o t o t t o
-E i E i E i E E i
-e o e o e u e e y i o
-y p y p y p y y p
-u y u o t o t o t t o
-y t E i E i E i E E E t i
-u o o o e i e T u
-y p y a y s y u e u i p y e ]]
+shared.scr = [[ s|h|k|G|s|h|k|G|
+s|h|k|G|s|h|f|g|
+[h8]|w|[uh]|w|
+[f9]|e|[if]|[ge]|
+[h0]|[rg]|[of]|[rk]|
+[S6]|0|T S [d0] f
+[g4]|8|e h [g8] f
+[d$]|9|[pe]|[d9]|
+[f5]|8|9|[wg] f
+[da5]|7|[f9]|[wg]|
+[h8]|w|[uh]|w|
+[f9]|e|[if]|[ge]|
+[a0]fh [rg]|[of]|[rk]|
+[S6]|0|T S [d0] f
+[spg4]|8|e h [g8] f
+[d5]|8|9|[ws] d
+[s8]|q|w|t|8|0|w|t|
+[tqje] h j k l|h|
+[wtg0]|f|d|s|
+[tqje] h j k l|h|
+[wtc0]|xcxz|l|
+[tqje] h j k l|h|
+[yjeQ] h j k l|L|
+[zw]|t|y|[ol]|
+[wk]ry| f|g|
+[h8]|w|[uh]|w|
+[f9]|e|[if]|[ge]|
+[h0]|[rg]|[of]|[rk]|
+[S6]|0|T S [d0] f
+[g4]|8|e h [g8] f
+[d$]|9|[pe]|[d9]|
+[f5]|8|9|[wg] f
+[da5]|7|[f9]|[wg]|
+[h8]|w|[uh]|w|
+[f9]|e|[if]|[ge]|
+[a0]fh [rg]|[of]|[rk]|
+[S6]|0|T S [d0] f
+[spg4]|8|e h [g8] f
+[d5]|8|9|[ws] d
+[s8]|q|w|t|8|0|w|t|
+[tqje] h j k l|h|
+[wtg0]|f|d|s|
+[tqje] h j k l|h|
+[wtc0]|xcxz|l|
+[tqje] h j k l|h|
+[yjeQ] h j k l|L|
+[zw]|t|y|[ol]|
+[wk]ry| f|g ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
