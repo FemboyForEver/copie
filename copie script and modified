@@ -1859,7 +1859,7 @@ t [%(] ( [QO] ( % ( [QO] ( % ( [QO] ( % 0 [TO] * % * ! [%*] * ! * % * f * % [*S]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("pirate", "Auto", function()
+Section:NewButton("pirate of caraibes", "Auto", function()
  -- Sheet for Rondo Alla Turca by Wolfgang Amadeus Mozart
 
 shared.stop = true -- stops the player at any time if true
