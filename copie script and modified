@@ -99,15 +99,38 @@ shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ y p y p y p y y p
-t o t o t o t t o
-E i E i E i E E i
-e o e o e u e e y i o
-y p y p y p y y p
-u y u o t o t o t t o
-y t E i E i E i E E E t i
-u o o o e i e T u
-y p y a y s y u e u i p y e ]]
+shared.scr = [[ [shf]|[shf][shf][shf][spjf]|[spjf]|[ukf]|[shf]|[spjf]||
+[shf]|[shf][shf][shf][spjf]|[spjf]|[ukf]|[shf]|[spjf]||
+[yg] hg f[id] sa o
+[tf] gf d[us] ap s
+[ia] pO d[us] ap f
+[yg] f[ud] s[oh]|Cv|
+[shf]|[shf][shf][shf][spjf]|[spjf]|[ukf]|[shf]|[spjf]||
+[shf]|[shf][shf][shf][spjf]|[spjf]|[ukf]|[shf]|[spjf]||
+[yg] hg f[id] sa d
+[th] jh g[uf] ds f
+[ji] hg j[yk] jh k
+[ul] kj k[uH]|[uZ]x|
+[ufO]|[ufO][ufO][ufO][se]|[pe]|
+i|y|[ur]|x|
+[le]|[tj]|[yg]|[id]|
+[yg]|[tj]|[kW]|[xuH]|
+[ufO]|[ufO][ufO][ufO][se]|[pe]|
+i|y|[ur] x Z z
+l k j h g f d s
+a p o i u y t r
+[thf]|[shf][shf][shf][spjf]|[spjf]|[ukf]|[shf]|[spjf]||
+[shf]|[shf][shf][shf][spjf]|[spjf]|[ukf]|[shf]|[spjf]||
+[yg] hg f[id] sa o
+[tf] gf d[us] ap s
+[ia] pO d[us] ap f
+[yg] f[ud] s[oh]|Cv|
+[shf]|[shf][shf][shf][spjf]|[spjf]|[ukf]|[shf]|[spjf]||
+[shf]|[shf][shf][shf][spjf]|[spjf]|[ukf]|[shf]|[spjf]||
+[yg] hg f[id] sa d
+[th] jh g[uf] ds f
+[ji] hg j[yk] jh k
+[ul] kj k[tl]|1 ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
