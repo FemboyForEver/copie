@@ -64,15 +64,83 @@ shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ y p y p y p y y p
-t o t o t o t t o
-E i E i E i E E i
-e o e o e u e e y i o
-y p y p y p y y p
-u y u o t o t o t t o
-y t E i E i E i E E E t i
-u o o o e i e T u
-y p y a y s y u e u i p y e ]]
+shared.scr = [[ o o o
+[8tos] [8tos]
+[5wad] [5wad]
+[30sh] f
+[8os] s [30sf] s
+[4qip] [29pg]
+[5w] [5wod] a
+[8us] t t
+t s d
+[8tsf] [8tsf]
+[8tsf] [8tsg] f
+[5waf] [5wd]
+[5w] d f
+[29dg] [29dg]
+[29dg] [wadh] g
+[8osf] t
+t h h
+[woh] [uf] [ts]
+[woh] [uf] [ts]
+[5wo]
+o [wo] a
+[woad]
+[woag] [wd] a
+[tuod] s
+[pt] t
+[qip] s s
+[qs] [qia] s
+[woad] w w
+w d
+[d8os] D
+[d8os] D [@(G] h
+[5wad] w w
+w D d
+[y8os] s
+[@(YS] D [8d] s
+[5wos] [5woa]
+[wh]
+[8tfh]
+h [8tf] s
+[5wad] w w
+w h
+[8tfh]
+h [8tf] s
+[5wad] w w
+w o
+[8tos]
+[8t] [5wad]
+[30sf]
+[5w] [30]
+[4qsg] [4q] [4q]
+[4qsh] [4qsj]
+[5wad]
+[7r] [5wdj]
+[8tfh]
+[8t] f [5wdg] [ad]
+[8s] t t
+t h
+[8tfh]
+h [8tf] s
+[5wad] w w
+w h
+[8tfh]
+h [8tf] s
+[5wad] w w
+w o
+[8tos]
+[8t] [5wad]
+[30sf]
+[5w] [30]
+[4qsg] [4q] [4q]
+[4qsh] [4qsj]
+[5wad]
+[7r] [5wdj]
+[8tfh]
+[8t] f [5wdg] [ad]
+[8s] t t
+t ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
