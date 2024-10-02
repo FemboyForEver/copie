@@ -794,7 +794,7 @@ e [eSL] [6pj] * 0 e [eSL]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
 end)
-Section:NewButton("flght of the bumblebee", "Auto", function()
+Section:NewButton("flight of the bumblebee", "Auto", function()
     shared.stop = true -- stops the player at any time if true
 -- CONFIG:
 shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by |)
