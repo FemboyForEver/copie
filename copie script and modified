@@ -81,12 +81,132 @@ shared.ftime = 2*60 + 00 -- time in seconds for the song to finish (extended by 
 shared.delay = nil -- delay overides the ftime
 shared.tempo = nil -- tempo overides the delay
  
-shared.scr = [[ jhj||hgfdS|d||
-pop||u i T y|||
-ewe||wq09*|9||
-[29]|T u o P S f [9wd] 0 Q||
-S dfSdfSdfSd f ghfghfghfg h jJhjJhjJhj|||
-j hJfhJfgjdgjdfhsfhsdgPdhPsfpsfpPdoPdopsipsioPuoPuipyipyuoTuoT[9wy] ]]
+shared.scr = [[ soshsoshsoshsosh
+aoahaoahaoahaoah
+pophpophpophpoph
+aoahaoahaoahao[wa]h
+[qts]o[rs][eh]s[wo]s[wh]soshsosh
+[5d]odhsosh[9a]oa[0h]so[qs]h
+[60s]o[qs][0h]s[qo]s[wh]soshsosh
+[3d]odhsosh[8a]oa[0h]so[ws]h
+[qts]o[ys][th]s[ro]s[th]soshsosh
+[26qd]odhso[ts][rh][9qea]oa[rh]so[ts]h
+[wtus]oshsosh[5s]oshsosh
+[wryhv]----[ts] [yd] [ts] 
+[6sfjl]60[etus][6tus]0e[ulxm][lxm][plxm]ut[eafhk]6e[0pj]8
+[4osfh]48[qtuo][4tuo]8q[thlxv][hlxv][ihlxv]te[qipg]4q[8uf]6
+[5yoad]59[wry][5ry]9w[ydkz][dkz][odkz]yr[wuof]5w[9ig]7
+[1uosf]8w[tfhlx][8fhlx]ut[wyoad][7yoad]7[9t]y[wu]i[ro]pawsd[9f]gh7jk
+[6sfjl]60[etus][6tus]0e[ulxm][lxm][plxm]ut[eafhk]6e[0sl]8
+[3hlxv]38[0tuo][3tuo]80[wxvm][xvm][uxvm]tw[0gjlc]30[8fx]5
+[4dgjz]48[qyipd][4yipd]8q[tzcb][zcb][izcb]t[eipg]q[4pj]q[8sl]6
+[5dgjz]9qetyi9etyipswyipsdgypsdgjl
+[oadhkx]--vcxzmnbvcxzlkjhgfds
+[8wtsf]-[wtu]-[wrtu]-[wtu] sh
+[WO37sh]-g[Wryu] f [Wryu] s [%0ryud] s 
+[60tupd]-sd[etus]-[ertu]-[etu] as
+[50ruoa]-[wrus] a [wry] o [37wry] o 
+[48etuo] pp[qwe]-[qwr]-[qwt] s 
+[38wtuo]-[0wt]-[0wy]-[0wu] df
+[26qpsf] gg[qet]-[WO9qtis]-[Wqt] f 
+[5wipd] 9qet[ys]i[wyoa]-hv-
+[18fhlx] w [tu] w [tu] w [tu][sl]w[hv]
+[W37hlv] 0[gc][Wru] [0fx] [WHrufx][dz]0[sl][%0rafk][sl]0[dz]
+[60tdfkz] elz[tusfl] e [tu] e [tu] [eak] 
+[S50epfj] e[SL][Tu][dz]e[fx][Tufjx][gc]e[hv][!*Ljb][hv]e[gc]
+[29fgjx] qcx[dgz][ey] q [9eT] q [ey]l[qk]j
+[30sfh] w [tu] w [0tY] w [tu]l[wz]x
+[4qjlx] [ec]c[ti]s[ed]f[O4qsf] [Wg]g[ti] [Wc]x
+[5wgjz] [wg]f[yid] [wz]l[5wdhk] [ts] [uf] [yd] 
+[4ts]q[tsl]r[sl]tyt[sl]yuy[sl]u[qi]u[sl]ioi[sl]opo[sl]pap[sl]a
+[5lm]w[skn]a[jb]sap[hv]apo[hv]p[wol]io[ik]ujiuyhu[ys]tdy
+[6f]er[tg]rft[yx]ty[us]ydu[6f]er[tg]rft[yx]ty[us]ydu
+[3f]0w[tg]wft[ux]tu[og]ufo[sz]os[od]uso[ul]tu[td]wst
+[4l]qwtyt[qo]stdyh[ol]zsv[dm]z[hv]z[dm]vsz[ol]hydts[qo]w[sl]q[tsl]y[sl]t
+[3pj]0w[toh]yt[0o]stdyh[ol]zsv[dm]z[hv]z[dm]vsz[ol]hydts[0o]w0[tsl]y[dz]t
+[2fjlx]9[qs][9d][tpsf]e[9gc][qfx][2fjlx]9[qg][9f][tpsf]e[9sl][qdz]
+[H4flx]q[Ws][qd][Otsf]W[qgc][Wfx][H4flx]q[Wg][qf][Otsf]W[qdz]W
+[5wgjlc]ertyuiyuiopasopasdfgdfghjklzxc
+[odhkzv] wyoodhhzvvzv----l[ism] n[gb] viv[os] [az][px] [oc] 
+[ox][ux] c[afx] cux[ph] [gz][fl] d 
+s[im] [sn][gb] [sv] [iv][oh] [gz][Ofx] [dc] 
+[fx][px] [ac][sx] [dc] [fx][oP] [dz][Ptsl] d 
+s[ql]t[ik][oj]t[ph]i[th]w[yd]o[af]W[ug]O
+[af][ef]u[pg][af]u[sg]p[uf]0[wd]t[ys]uy[toh]
+w[4sghl]q[tk][yl]qo[yh]t[5dhkz]w[yl][oz]%W[uh]
+O[6efjlx] [gc][fx] [gc] [fx] [dz][dz][sl]vcxzmnbvcxzlkjhgfdsapoiuytrewq098 
+[4sfhl]8q[eak]q8[4pj]8qe[qoh]848[qoh]eq8[4yd]8qe[quf]848[qig]e48q
+[euf][5uoaf]9w[rig]w9[5uf]9wr[wig]959[wuf]rw9[5yd]9[wts]r[wo]a9d[5h]k9z[wv]nrz[5v]9w
+r[6sfjl]0e[tak]e0[6pj]0et[eoh]060[eoh]te0[6yd]0et[euf]060[eig]t60e
+[tuf][18uosf]wt[uig]tw[8uf]wtu[tig]w8w[toh]utw[8pj]w[toh]u[to]swf[8h]lwx[tv]mux[8v]wt
+u[4sfhl]8q[eak]q8[4pj]8qe[qoh]848[qoh]eq8[4yd]8qe[quf]848[qig]e48q
+[euf][6upsf]0e[tig]e0[6uf]0et[eig]060e[tuf]59w[ryd]w9[5ts]9wr[wra]959w
+[rtips][29]t[9ip][qes][gj][yl][ipcb][30lxvm] t[0uo][wts][fh][ul][osxv]
+[4qlxvm] t[qio][ets][gh][lm][4qs][tgOH][lm][qs][tgOH][lm][qs][tgOH][lm]
+[5wzvn]-vcxz[lm][kn][jb][hv][gc][fx][dz][sl][ak][pj][5oadh]67[18][29][30][4q][5w][6e][7r][8t][9y][0u][qi]
+[wo][8tsf]-[wtu]-[wtu] sfd[wtus]dfghjkl
+zx[30V]ncVxczx[Wrul]zkljkHk[Wrug]Hfgdfsda[Wrus]dsdsds
+as[6ed]-sd[etus]-[etus]fjklxbn[etum]nbxlk
+jf[6eS]pfShfjh[euTL]jxLvxbv[euTL]bxLbvcx[euTL]jxLjh
+gf[9f]-gf[eyid]-dfdS[eyid]gjLzcbL[eyiz]bcxzj
+gd[0s]dsdsdsds[wtu]dsdsdsdsdsa[wtus]fhklxvn[wtum]vcxlh
+fs[4f]dSdhgfg[qeyk]jHjxzLz[qeyv]cxcnbVb[qeyx]czbxc
+zjL[5z]xzxzxzxz[wry]xzxzxzxzLz[wryv]cxzlkjhgfdsap
+o[qts]dsdrsd[es]dsdswdsdswdsd5sd9sdsds0dsdsqdsds
+0ds[30]dsdqsd[0s]dsdsqdsdsd0sd6sdsds9ds8dsopasdf
+gh[qtl]ytykty[tj]ytythytythytywtydtytytfytWytgytyt
+fyt[etf]yty[tg]ytfytytgytytyfty0tytytdytsytwertyu
+io[qtsl]dsd[rk]sd[esj]dsds[wh]dsds[wh]dsd5sd[9d]sdsds[0f]ds%ds[qg]dsds
+[0f]ds[60sf]dsd[qg]sd[0sf]dsds[qg]dsds[0f]dsd3sdsds[9d]ds[8s]dsdsds[oh]ds
+d[4tsgjl]yty[ak]ty[tsl]ytytyt[oh]ytyty[5dhkz]tytyt[sl]yt[dz]yt%ytyt[oh]yt
+yt[6tfjlx] [gc][fx] [gc] [fx] [dz][dz][sl]opasdf
+gh[ql][ts][ef][ts][qk][ts][ej][ts][qf][ts][eh][ts][qf][ts][eh][to][qs][to][ed][to][qs][to][ef][to][qs][to][eg][to][qs][to]
+[ef][to][wf][yo][ra][yo][wg][yo][rf][yo][wa][yo][rg][yo][wa][yo][rf][yo][wa][yo][rd][yo][ws][yo][rp][ya][ws][ya][rs][yd][wf]gyh
+rjyk[el][us][tf][us][ek][us][tj][us][ef][us][th][us][ef][us][th][uo][es][uo][td][uo][es][uo][tf][uo][es][uo][tg][uo][es][uo]
+[tf][uo][0f][to][ws][to][0g][to][wf][to][0s][to][wg][to][0s][to][wh][to][0s][to][wj][to][0h][to][wp][ta][0s][ta][ws][td][0f]gth
+wjtk[4l]s[ef][ts][qk][ts][ej][ts][qf][ts][eh][ts][qf][ts][eh][to][qs][to][ed][to][qs][to][ef][to][qs][to][eg][to][qs][to]
+[ef]o[6f]p[ts][up][eg][up][tf][up][es][up][tg][up][es][up][tf]o[5a]o[rd][yo][wa][yo][rs][yo][wa][yo][rd][yo][wa][yo]
+[ra]o[29tips]9[qt]yu9io[yp]as[ed]fg[qh]jk[30sfhl] 0[ws]df0gh[uj]kl[tz]xc[wv]bn
+[4qlxvm] q[im]vc[tl]hg[qs][im]vc[tl]hg[qs][%(W8m]BVZlHDsOYt[^E9qz]mBczJgdP
+iy[8wtlxvm] shsoshsoshsos
+h[1s]oshsoshsoshsos
+h[ts]osh[1s]osh[Yts]osh[Ytil]hs
+h[Ets]osh[^s]osh[EYts]osh[Etil]hs
+h[WYtos]osh[%s]osh[YPts]osh[Ytsl]hs
+h[EYis]osh[^s]osh[EYD]osh[Eyg]os
+h[%Eh]osh[ts]osh[Ys]ogo[ih]o[El]
+o[^EJ]PgP[tg]PgJ[Yg]P[ig]J[Eg]Pg
+J[5og]PgJ[ig]PgJ[ig]PDP[Yg]P[yH]
+P[8yh]oDo[YD]osh[ys]osh[Es]os
+h[9psh]q[es][rh][ts][eo][ts][yh][ulm]9[tg]o[tf]w[tg]
+o[0osh]w[es][rh][ts][wo][ts][yh][ulm]0[th]o[tj]w[tk]
+o[qsghl]w[tl][iv][om][iv][tl][wh][qdghz]w[tl][iv][om][iv][tl]
+[wh][wdhkz]yodhzvzvzvzhdo
+y[ql]we[rk]t[yj]uio[ph]asdfg[hm]gfd[sn]a[pb]oiuvytr
+e[wf] e[rg]t[yf]uio[pg]a[sh]dfg[hx]gfd[sc]axpoicu[yv]t
+r[el] [rk]t[yj]uio[ph]asdfg[hm]gfd[sn]a[pb]oiu[yv]tre
+w[0f]w[tg]y[uf]iop[ag]s[dh]fg[hx]gfd[sc]a[px]oiu[yc]t[rv]e
+w[9sl]qe[tdz]y[usl]iopasdfg[hlm]gfd[sz]a[plm]oiuyt[roh]e
+w[0fx]w[tgc]y[ufx]iopas[dhv]fg[hx]gfd[sc]a[px]oiuyt[rsl]e
+[dz]w[qfx]ty[ulm]iozpa[sx]apo[idz]u[yfx]t[qgc]ty[uz]ioxpa[sc]apo[ifx]u
+[ygc]t[whv] [80w][357][90w][358][0wt][589][qwt][580][wtu][89q][etu][80w][tuo][0wr][yuo][0wt][wtu][89q][etu][80w][tuo][0wr][yuo][0wt][uos][wty]
+[ios][wtu][osf][tyi][psf][tuo][uos][wty][ios][wtu][osf][tyi][psf][tuo][sfh][uoa][dfh][uos][fhl][osd][ghl][osf][sfh][uoa][dfh][uos][fhl][osd][ghl][osf][hlx][sdg]
+[jlx][sfh]hvohhvohovwhovwh[wo][hv][5w][oh][wo][hv][5w][oh][wo][hv][5w][oh][wo][hv]
+[5w][oh][wryohkzv]----[ts] [yoad] [ts] 
+[6sfjl] [8e][0t][eu][8p][0s][ef][tj][ul][px][sb][fm][jx][bm]-[afhk]-[pj] 
+[4osfh] [4w][8t][qy][qo][ts][id][ih][sl]zgvgmlz[cv]-[ipsg]-[uf] 
+[5yoad] [7w][9r][wy][7o][9a][wd][rh][yk][oz][av][dn][hz][vn]-[uosf]-[ig] 
+[18uosf] [50][8w][0t][5u][8o][0s][wf][th][ul][ox][sv][fm][xv] [8t] [7ryoad] [5w] 
+[6sfjl] [8e][0t][eu][8p][0s][ef][tj][ul][px][sb][fm][jx][bm]-[afhk]-[sl] 
+[3hlxv] [8w][0t][wu][8o][0s][wf][th][ul][ox][sv][fm][hx][vm]-[jlcb]-[kn] 
+[4lxvm] [4w][8t][qy][qo][ts][id][ih][sl]zgvgmlz[cv] [wo] [qilcbm] [8t] 
+[4qzcV] [Wqty] [OVtilcm]-[Ois]-[5wlzvm]-[wty]-[ryokzvn]-[yoa] 
+1[50lxvm] shsoshsoshsos
+h[etis]oshsosh[is]o[us][yh]s[to]s
+[yh][8wus]oshsoshsosh[rs]os
+h[qes]oshsoshq 09 8 
+9[1s]50oshsoshsoshsos
+h[lv] ]]
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/AutoPlayPianoScript/main/NewAutoPlayPiano"))()
 
